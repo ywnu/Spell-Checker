@@ -38,9 +38,9 @@ python main.py
 
 ## Team
 - Deem Almaneea - [@ywnu](https://github.com/ywnu)
+- Hanan Almutairi - [@lixr-7](https://github.com/lixr-7)
 - Aseel Alotaibi
 - Bayader Alotaibi
-- Hanan Almutairi
 - Jumanah Alotaibi
 
 ## Course
